@@ -1,0 +1,12 @@
+.list-layout {
+    max-height: 500px;
+    overflow: auto;
+}
+
+.app-bg-color {
+    background-color: #e2d5de;
+}
+
+.cart-border-radius {
+    border-radius: 15px;
+}
